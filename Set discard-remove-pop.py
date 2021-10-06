@@ -1,6 +1,5 @@
 n = int(input())
 s = set(map(int, input().split()))
-
 commNum = int(input())
 
 for i in range(commNum):
